@@ -1,9 +1,4 @@
-![Screenshot 2024-12-29 205047](https://github.com/user-attachments/assets/dab4ef12-a051-48d8-8d6c-0b884a3ca4a3)
-![Screenshot 2024-12-29 210504](https://github.com/user-attachments/assets/0c995bfc-6ac3-41a3-897e-bc114b97ae51)
-![Screenshot 2024-12-29 210936](https://github.com/user-attachments/assets/df56b534-fbb4-45d9-a9e5-2c4ebc567c31)
-![Screenshot 2024-12-29 211437](https://github.com/user-attachments/assets/3fe245b5-1d7c-443c-a4b0-92f283f29394)
-![Screenshot 2024-12-29 211548](https://github.com/user-attachments/assets/26a6ccfb-6b25-484f-8a72-d4039431d226)
-![Screenshot 2024-12-29 211834](https://github.com/user-attachments/assets/0cb51183-dfdc-469e-a070-689e8c1684a5)
+
 # HTTP-analysis-lab
 
 Analyzing HTTP Logs with Splunk:
@@ -59,3 +54,12 @@ Many attackers attempt to brute force login pages or access sensitive directorie
 This lab gave me hands-on experience in analyzing logs just like a SOC analyst would in a real-world environment. By using Splunk to detect anomalies, investigate logs, and visualize attack patterns, I gained a deeper appreciation for how critical log analysis is in cybersecurity.
 
 If you’re looking to break into cybersecurity or improve your SOC skills, practicing with Splunk and HTTP logs is a great starting point!
+
+
+
+![Screenshot 2024-12-29 205047](https://github.com/user-attachments/assets/dab4ef12-a051-48d8-8d6c-0b884a3ca4a3)
+![Screenshot 2024-12-29 210504](https://github.com/user-attachments/assets/0c995bfc-6ac3-41a3-897e-bc114b97ae51)
+![Screenshot 2024-12-29 210936](https://github.com/user-attachments/assets/df56b534-fbb4-45d9-a9e5-2c4ebc567c31)
+![Screenshot 2024-12-29 211437](https://github.com/user-attachments/assets/3fe245b5-1d7c-443c-a4b0-92f283f29394)
+![Screenshot 2024-12-29 211548](https://github.com/user-attachments/assets/26a6ccfb-6b25-484f-8a72-d4039431d226)
+![Screenshot 2024-12-29 211834](https://github.com/user-attachments/assets/0cb51183-dfdc-469e-a070-689e8c1684a5)
